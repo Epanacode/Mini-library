@@ -20,7 +20,7 @@ Easily add, view, delete, and track books using the command-line interface (CLI)
 
 Sample interaction in the CLI:
 
-![Mini library](https://github.com/Epanacode/Password_manager/blob/main/assets/2025-10-22%2002_03_34-main.py%20-%20Password_manager%20-%20Visual%20Studio%20Code.png?raw=true)
+![Mini library](https://github.com/Epanacode/Mini-library/blob/main/assets/2025-10-22%2002_39_28-main.py%20-%20Mini%20library%20-%20Visual%20Studio%20Code.png?raw=true)
 
 
 
